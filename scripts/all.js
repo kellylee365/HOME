@@ -1,0 +1,1 @@
+"use strict";console.log(123),alert("66789654");
